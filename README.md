@@ -17,10 +17,10 @@
 - 🚀 I like shipping: several of my projects are live and used by real users
 
 ### 🛠️ Tech stack
-**Networking:** TCP/IP · Routing & Switching · Python network automation (Netmiko, Jinja2) · Ansible (learning)
-**Languages:** Python · PHP · C# · JavaScript · SQL
-**Web:** Laravel · HTML/CSS/JS · Bootstrap · Firebase · Netlify
-**AI:** Claude API · LLM-powered bots & agents · AI media tools
+- **Networking:** TCP/IP · Routing & Switching · Python network automation (Netmiko, Jinja2) · Ansible (learning)
+- **Languages:** Python · PHP · C# · JavaScript · SQL
+- **Web:** Laravel · HTML/CSS/JS · Bootstrap · Firebase · Netlify
+- **AI:** Claude API · LLM-powered bots & agents · AI media tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,php,laravel,cs,js,html,css,mysql,firebase,netlify,git,linux" />
@@ -29,7 +29,7 @@
 ### 📌 Featured projects
 | Project | What it is | Stack |
 |---|---|---|
-| **Network Automation Lab** | Automated config collection & templating across a simulated network | Python · Netmiko · Jinja2 |
+| [**Network Automation Lab**](https://github.com/Moleo10/network-automation-lab) | Automated config collection & templating across a simulated network | Python · Netmiko · Jinja2 |
 | **Claude Telegram Agent** | Telegram bot powered by the Claude API | Python · Anthropic SDK |
 | **Supply Chain Application** | Graduation project — multi-role supply chain system (team of 6) | Laravel · MySQL · Bootstrap |
 | **Marhaba Invitations** | Commercial e-invitation platform with RSVP & QR gate check-in — [live](https://marhabainvitations.com) | JS · Firebase · Netlify |
