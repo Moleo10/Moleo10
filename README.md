@@ -29,12 +29,12 @@
 ### 📌 Featured projects
 | Project | What it is | Stack |
 |---|---|---|
-| [**Network Automation Lab**](https://github.com/Moleo10/network-automation-lab) | Automated config collection & templating across a simulated network | Python · Netmiko · Jinja2 |
-| **Claude Telegram Agent** | Telegram bot powered by the Claude API | Python · Anthropic SDK |
-| **Supply Chain Application** | Graduation project — multi-role supply chain system (team of 6) | Laravel · MySQL · Bootstrap |
-| **Marhaba Invitations** | Commercial e-invitation platform with RSVP & QR gate check-in — [live](https://marhabainvitations.com) | JS · Firebase · Netlify |
-| **Haqak (حقّك)** | Saudi labor-law calculators (end-of-service, overtime, leave) | HTML · JS · SEO |
-| **Ticket Alert Bot** | Monitors ticket availability and sends instant Telegram alerts | Python · Telegram API |
+| 🤖 [**NetOps AI Assistant**](https://github.com/Moleo10/netops-ai-assistant) | Reads Cisco `show` output, detects duplex mismatch, CRC errors, stuck OSPF and L2 loops, then Claude explains the root causes and an action plan (EN/AR) | Python · Claude API · Rich |
+| 🛰️ [**Network Automation Lab**](https://github.com/Moleo10/network-automation-lab) | Network-as-code: Jinja2 config generation, facts, backups, security compliance audit and automatic drift remediation | Python · Netmiko · Jinja2 |
+| 🧮 [**Subnet Planner**](https://github.com/Moleo10/subnet-planner) | VLSM designer and IPv4 calculator with Cisco config export ([live demo](https://moleo10.github.io/subnet-planner/)) | JavaScript · GitHub Pages |
+| 💌 [**Marhaba Invitations**](https://github.com/Moleo10/marhaba) | Commercial e-invitation platform with RSVP and QR gate check-in, used at real events ([live](https://marhabainvitations.com)) | JS · Firebase · Netlify |
+| 📦 **Supply Chain Application** | Graduation project: multi-role supply chain system built by a team of 6 | Laravel · MySQL · Bootstrap |
+| ⚖️ **Haqak (حقّك)** | Saudi labor-law calculators: end-of-service, overtime, leave, notice period ([live](https://inspiring-halva-d196f9.netlify.app)) | HTML · JS · SEO |
 
 ### 📊 GitHub stats
 <p>
