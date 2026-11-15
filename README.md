@@ -33,7 +33,7 @@
 | 🛰️ [**Network Automation Lab**](https://github.com/Moleo10/network-automation-lab) | Network-as-code: Jinja2 config generation, facts, backups, security compliance audit and automatic drift remediation | Python · Netmiko · Jinja2 |
 | 🧮 [**Subnet Planner**](https://github.com/Moleo10/subnet-planner) | VLSM designer and IPv4 calculator with Cisco config export ([live demo](https://moleo10.github.io/subnet-planner/)) | JavaScript · GitHub Pages |
 | 💌 [**Marhaba Invitations**](https://github.com/Moleo10/marhaba) | Commercial e-invitation platform with RSVP and QR gate check-in, used at real events ([live](https://marhabainvitations.com)) | JS · Firebase · Netlify |
-| 📦 **Supply Chain Application** | Graduation project: multi-role supply chain system built by a team of 6 | Laravel · MySQL · Bootstrap |
+| 📦 [**Supply Chain Application**](https://github.com/Moleo10/supply-chain-app) | Graduation project (team of 6): admin, supplier and customer portals, inventory and orders. I later hardened it: fixed privilege escalation and IDOR issues and added 40 tests | Laravel · MySQL · Bootstrap |
 | ⚖️ **Haqak (حقّك)** | Saudi labor-law calculators: end-of-service, overtime, leave, notice period ([live](https://inspiring-halva-d196f9.netlify.app)) | HTML · JS · SEO |
 
 ### 📊 GitHub stats
